@@ -55,11 +55,18 @@ Key Topics:
 
     •	Observer design and methods for output and dynamic feedback control.
 
+    ![out](assets/6_output.png)
+    ![outq](assets/7_output.png)
+
 8.	**Optimal and Robust Control**:
 
     •	Introduction to the Linear Quadratic Regulator (LQR) and Linear Quadratic Gaussian (LQG).
 
     •	Overview of $H_2$ and $H_{\infty}$ robust control methods.
+
+    ![lqr](assets/8_lqr.png)
+
+    ![h](assets/5_hinf.png)
 
 9.	**Computational Methods in Control Design**:
 
