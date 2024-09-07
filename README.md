@@ -14,6 +14,8 @@ Key Topics:
 
     •	State-space representation of systems.
 
+    ![intro](assets/1_introduction.png)
+
 2.	Linear Algebra and Frequency Domain Analysis:
 
     •	Fundamentals of vector spaces, matrix operations, eigenvalues, and eigenvectors.
