@@ -4,6 +4,8 @@
 
 Principles and methods for modeling, analysis, and feedback design for linear systems
 
+Professor Shinkyu Park
+
 Key Topics:
 
 1.	**Introduction to Linear Systems**:
